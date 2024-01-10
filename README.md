@@ -5,10 +5,10 @@
 ---
 ## Roteiro de Estudos
 ----
-## Básico
-- [x] 1. Variáveis
-- [x] 2. Tipos Básicos
-- [x] 3. Controle de Fluxo
+## Basic
+- [x] 1. Variables
+- [x] 2. Basic types
+- [x] 3. Conditions
   - [x] If-else
   - [x] When
 - [x] 4. Loops
@@ -22,11 +22,11 @@
   - [x] Nullable types
   - [x] Safe calls
   - [x] Elvis Operator
+
   
 ## Collections
 
 - [x] 1. List
-- [ ] Arrays
 - [x] 2. Map
 - [x] 3. Set
 
