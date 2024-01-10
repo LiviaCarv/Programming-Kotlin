@@ -1,6 +1,10 @@
 
-# Roteiro de Estudos
+# Programming Kotlin
 
+## Este repositório foi criado para manter anotações sobre os principais tópicos sobre a linguagem de programação Kotlin. O roteiro disponível é apresentado a seguir: 
+---
+## Roteiro de Estudos
+----
 ## Básico
 - [x] 1. Variáveis
 - [x] 2. Tipos Básicos
