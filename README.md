@@ -1,10 +1,14 @@
 
 # Programming Kotlin
 
-## Este repositório foi criado para manter anotações sobre os principais tópicos sobre a linguagem de programação Kotlin. O roteiro disponível é apresentado a seguir: 
+## Este repositório foi criado para manter anotações sobre os principais tópicos sobre a linguagem de programação Kotlin. O roteiro disponível é apresentado abaixo. 
+
+Fontes: 
+* [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
+* [Programming Kotlin](https://www.google.com.br/books/edition/Programming_Kotlin/x08oDwAAQBAJ?hl=en&gbpv=0)
 ---
-## Roteiro de Estudos
-----
+
+
 ## Basic
 - [x] 1. Variables
 - [x] 2. Basic types
