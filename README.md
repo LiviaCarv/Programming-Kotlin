@@ -42,3 +42,4 @@ Fontes:
 - [x] 4. Object properties
 - [x] 5. Visibility Modifiers
 - [x] 6. Companion Object
+- [x] 7. Singleton Object 
