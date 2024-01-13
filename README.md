@@ -36,10 +36,14 @@ Fontes:
 
 ## Object Oriented Programming
 
-- [x] 1. Constructors
-  - [x] Secondary constructors
+- [x] 1. Classes
+  - [x] Nested Class
+  - [x] Inner Class
+  - [x] Enum Class
+  - [x] Data Class  
+- [x] 2. Constructors 
 - [x] 3. Init block
-- [x] 4. Object properties
+- [x] 4. inheritance
 - [x] 5. Visibility Modifiers
 - [x] 6. Companion Object
 - [x] 7. Singleton Object 
