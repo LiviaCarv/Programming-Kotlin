@@ -43,7 +43,8 @@ Fontes:
   - [x] Data Class  
 - [x] 2. Constructors 
 - [x] 3. Init block
-- [x] 4. inheritance
-- [x] 5. Visibility Modifiers
-- [x] 6. Companion Object
-- [x] 7. Singleton Object 
+- [x] 4. Visibility Modifiers
+- [x] 5. Companion Object
+- [x] 6. Singleton Object 
+- [x] 7. Inheritance
+- [x] 8. Abstract classes
