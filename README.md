@@ -26,13 +26,10 @@ Fontes:
   - [x] Nullable types
   - [x] Safe calls
   - [x] Elvis Operator
-
-  
-## Collections
-
-- [x] 1. List
-- [x] 2. Map
-- [x] 3. Set
+- [x] 8. Collections 
+  - [x] 1. List
+  - [x] 2. Map
+  - [x] 3. Set
 
 ## Object Oriented Programming
 
