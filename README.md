@@ -18,9 +18,6 @@ Fontes:
 - [x] 4. Loops
   - [x] For
   - [x] While
-- [x] 5. Functions
-  - [x] Named Arguments
-  - [x] Single-expression functions
 - [x] 6. Lambda Expressions
 - [x] 7. Null Safety 
   - [x] Nullable types
@@ -30,6 +27,13 @@ Fontes:
   - [x] 1. List
   - [x] 2. Map
   - [x] 3. Set
+
+## Functional Programming
+
+- [x] 1. Functions
+  - [x] Default and Named Parameters
+  - [x] Single-expression functions
+- [x] Local Functions 
 
 ## Object Oriented Programming
 
