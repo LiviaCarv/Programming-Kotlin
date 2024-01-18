@@ -35,6 +35,7 @@ Fontes:
   - [x] Single-expression functions
 - [x] 2. Local Functions
 - [x] 3. Function Literals
+- [x] 4. Pure Functions 
 
 ## Object Oriented Programming
 
