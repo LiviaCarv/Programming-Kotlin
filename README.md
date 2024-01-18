@@ -28,12 +28,13 @@ Fontes:
   - [x] 2. Map
   - [x] 3. Set
 
-## Functional Programming
+## Functions in Kotli
 
 - [x] 1. Functions
   - [x] Default and Named Parameters
   - [x] Single-expression functions
-- [x] Local Functions 
+- [x] 2. Local Functions
+- [x] 3. Function Literals
 
 ## Object Oriented Programming
 
