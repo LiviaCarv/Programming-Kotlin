@@ -27,8 +27,9 @@ Fontes:
   - [x] 1. List
   - [x] 2. Map
   - [x] 3. Set
+- [x] 9. Type hierarchy
 
-## Functions in Kotli
+## Functions
 
 - [x] 1. Functions
   - [x] Default and Named Parameters
