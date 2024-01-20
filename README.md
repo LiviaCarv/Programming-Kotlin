@@ -23,11 +23,12 @@ Fontes:
   - [x] Nullable types
   - [x] Safe calls
   - [x] Elvis Operator
-- [x] 8. Collections 
+- [x] 8. Type checks and casts 
+- [x] 9. Collections 
   - [x] 1. List
   - [x] 2. Map
   - [x] 3. Set
-- [x] 9. Type hierarchy
+- [x] 10. Type hierarchy
 
 ## Functions
 
