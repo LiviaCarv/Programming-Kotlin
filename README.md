@@ -53,3 +53,5 @@ Fontes:
 - [x] 6. Singleton Object 
 - [x] 7. Inheritance
 - [x] 8. Abstract classes
+- [x] 9. Interfaces
+  - [x] Interface or Abstract Class
